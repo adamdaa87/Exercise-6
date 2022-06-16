@@ -1,0 +1,36 @@
+body {
+    margin: 0%;
+    background-color: #dfeeef;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+.header-item{
+    margin: 5px;
+}
+.container2 {
+    display: block;
+    overflow: auto;
+    margin-left: 25%;
+    width: 50%;
+    height: 60%;
+    padding: 5px;
+}
+
+.video-item {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+.Ulist-item {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-item {
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color:#e3bc3d
+}
